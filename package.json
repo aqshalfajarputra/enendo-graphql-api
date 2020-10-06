@@ -1,0 +1,25 @@
+{
+  "name": "e-nendo",
+  "version": "1.0.0",
+  "description": "E-Commerce API with Express + GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shizuku",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^15.1.0",
+    "axios": "^0.19.2",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.12",
+    "sequelize-cli": "^5.5.1",
+    "graphql-upload": "^11.0.0"
+  }
+}
